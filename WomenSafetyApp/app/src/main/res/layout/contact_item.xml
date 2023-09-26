@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/todo"
+        android:layout_marginVertical="10dp"
+        android:textAlignment="center"
+        android:id="@+id/textview"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:layout_weight="1"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/remove"
+        android:layout_gravity="center_vertical"
+        android:layout_marginEnd="12dp"
+        android:id="@+id/remove"
+        android:scaleX="1.25"
+        android:scaleY="1.25"
+        android:contentDescription="@string/todo" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

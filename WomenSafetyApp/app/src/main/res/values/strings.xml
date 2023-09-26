@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Women Safety App</string>
+    <string name="sos_will_be_sent_to">SOS Will Be Sent To\n</string>
+    <string name="stop">stop</string>
+    <string name="change_number">Change Number</string>
+    <string name="enter_number_to_send_sms_in_emergency">Enter Number To\nSend SMS\nin\nEMERGENCY!</string>
+    <string name="number">Number</string>
+    <string name="finish">Finish</string>
+    <string name="todo">TODO</string>
+    <string name="feel_safe_everywhere">Feel Safe \nEverywhere</string>
+    <string name="manage_contacts">Manage Contacts</string>
+    <string name="start">Start</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="press_start_to_send_an_sos">Press Start to send an \nSOS</string>
+</resources>
